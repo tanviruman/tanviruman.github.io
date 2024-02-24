@@ -8,5 +8,29 @@
 <body>
   <h1 style="text-align: center;">Under Development!</h1>
   <p style="text-align: center;">I am currently working on this site. Please check back soon!</p>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tanvir's Blog and Connect</title>
+</head>
+<body>
+  <h1>My Blog</h1>
+  <p>I occasionally write about coding, technology, and other topics on <a href="https://tanviruman.hashnode.dev/">Hashnode</a>. Check out my blog posts to stay updated with my latest articles.</p>
+  <p>Feel free to explore and engage with my writings!</p>
+
+  <h2>Connect with Me</h2>
+  <ul>
+    <li><a href="https://codeforces.com/profile/tanviruman">Codeforces</a></li>
+    <li><a href="https://www.linkedin.com/in/tanvirumaan">LinkedIn</a></li>
+    <li><a href="https://leetcode.com/tanviruman">LeetCode</a></li>
+    <li><a href="https://www.hackerrank.com/tttttttt">HackerRank</a></li>
+  </ul>
+
+  <p>Feel free to reach out, connect, or follow me on these platforms!</p>
+</body>
+</html>
+
 </body>
 </html>
