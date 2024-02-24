@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/MusarratZeba/readme-typing-svg">
-    Readme Typing SVG
+    
   </a>
 </p>
 
