@@ -6,9 +6,9 @@
   <title>Under Development</title>
 </head>
 <body>
-  <h1 style="text-align: center;">Under Development!</h1>
+  <h1 style="text-align: center;color: red;">Under Development!</h1>
   <p style="text-align: center;">I am currently working on this site. Please check back soon!</p>
-  <!DOCTYPE html>
+  
 <html lang="en">
 <head>
   <meta charset="UTF-8">
