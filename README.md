@@ -14,6 +14,4 @@
 
 
 <br/>
-<h1>Under Development! I am currently working  on this site.</h1>
-</body>
-</html>
+
