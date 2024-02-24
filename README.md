@@ -16,11 +16,11 @@
   <title>Tanvir's Blog and Connect</title>
 </head>
 <body>
-  <h1>My Blog</h1>
+  <h1 style="color:blue;"> My Blog</h1>
   <p>I occasionally write about coding, technology, and other topics on <a href="https://tanviruman.hashnode.dev/">Hashnode</a>. Check out my blog posts to stay updated with my latest articles.</p>
   <p>Feel free to explore and engage with my writings!</p>
 
-  <h2>Connect with Me</h2>
+  <h2 style="color:blue;">Connect with Me</h2>
   <ul>
     <li><a href="https://codeforces.com/profile/tanviruman">Codeforces</a></li>
     <li><a href="https://www.linkedin.com/in/tanvirumaan">LinkedIn</a></li>
