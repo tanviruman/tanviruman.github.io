@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1 style="text-align: center;color: red;">Under Development!</h1>
-  <p style="text-align: center;">I am currently working on this site. Please check back soon!</p>
+  <h1 style="text-align: center;color: red;">I am currently working on this site. Please check back soon!</h1>
   
 <html lang="en">
 <head>
