@@ -25,7 +25,7 @@
     <li><a href="https://codeforces.com/profile/tanviruman">Codeforces</a></li>
     <li><a href="https://www.linkedin.com/in/tanvirumaan">LinkedIn</a></li>
     <li><a href="https://leetcode.com/tanviruman">LeetCode</a></li>
-    <li><a href="https://www.hackerrank.com/tttttttt">HackerRank</a></li>
+    <li><a href="https://www.hackerrank.com/tanviruman">HackerRank</a></li>
   </ul>
 
   <p>Feel free to reach out, connect, or follow me on these platforms!</p>
